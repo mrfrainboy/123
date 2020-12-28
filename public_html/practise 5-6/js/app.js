@@ -21,10 +21,10 @@ $(document).ready(() => {
                         firstName = data.first_name,
                         lastName = data.last_name,
                         avatar = data.avatar,
-                        myEmail = 'dzimenok01@gmail.com',
-                        myFirstName = 'Daniil',
-                        myLastName = 'Zymenok',
-                        myAvatar = '..//practice3/img/квадрат.jpg'
+                        myEmail = 'coolxl2001@gmail.com',
+                        myFirstName = 'Andriy',
+                        myLastName = 'Prokopchuk',
+                        myAvatar = '..//practice3/img/photo_20-12-28_16-48-00.jpg'
 
                     if (((counter - 1) % 5) === 0) {
                         emailPlace.html(myEmail)
